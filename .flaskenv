@@ -1,0 +1,2 @@
+FLASK_APP=Spider
+FLASK_ENV=development
