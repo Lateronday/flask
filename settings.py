@@ -1,5 +1,6 @@
 class BasicConfig:
     TEST = '1'
+    DEBUG = True
     pass
 
 
